@@ -1,5 +1,5 @@
 
-# Marvellous Character Predictions ✨
+# RNN Character Predictions ✨
 
 A simple character-level RNN built with TensorFlow/Keras that learns to predict the next character in a repeating text sequence.  
 This project demonstrates how recurrent neural networks can capture sequential patterns in text.
